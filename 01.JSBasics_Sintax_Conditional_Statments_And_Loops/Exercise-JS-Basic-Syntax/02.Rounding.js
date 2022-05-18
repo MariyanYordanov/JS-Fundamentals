@@ -7,4 +7,4 @@ function rounding(number,precision){
     console.log(print);
 }
 
-rounding(10.5,3);
+rounding(10.5,3); // output - 10.5
