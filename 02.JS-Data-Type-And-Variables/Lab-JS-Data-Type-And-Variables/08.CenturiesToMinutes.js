@@ -12,5 +12,5 @@ function centuriesToMinutes(number){
 
 centuriesToMinutes(100);
 /*
-1 centuries = 100 years = 36524 days = 876576 hours = 52594560 minutes
+100 centuries = 10000 years = 3652422 days = 87658128 hours = 5259487680 minutes
 */ 
