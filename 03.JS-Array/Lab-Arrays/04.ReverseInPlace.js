@@ -5,8 +5,9 @@ function reverseInPlace(arr){
     console.log(arr.join(' '));
 
     function swapElements(arr,index,last){
+        let temp = arr[index] ;
         arr[index] = arr[last];
-        arr[last] = arr[index];
+        arr[last] = temp;
     }
 }
 
